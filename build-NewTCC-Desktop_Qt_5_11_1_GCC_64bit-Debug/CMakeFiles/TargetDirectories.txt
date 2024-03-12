@@ -1,0 +1,8 @@
+/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/CMakeFiles/NewTCC.dir
+/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/CMakeFiles/NewTCC_autogen.dir

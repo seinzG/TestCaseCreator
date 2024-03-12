@@ -1,0 +1,26 @@
+# ninja log v5
+0	4	0	NewTCC_autogen/mocs_compilation.cpp	6364f71fc74f8dd0
+0	4	0	/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/NewTCC_autogen/mocs_compilation.cpp	6364f71fc74f8dd0
+4	550	1710131168421386602	CMakeFiles/NewTCC.dir/wrapper.cpp.o	447e4657b9c93947
+0	4	0	CMakeFiles/NewTCC_autogen	6364f71fc74f8dd0
+905	1095	1710224652796787402	NewTCC	822c3e135ab011c8
+80	655	1710127714992327028	CMakeFiles/NewTCC.dir/NewTCC_autogen/mocs_compilation.cpp.o	4bb2b55247bbba23
+0	4	0	/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/CMakeFiles/NewTCC_autogen	6364f71fc74f8dd0
+0	4	0	NewTCC_autogen/include/ui_mainwindow.h	6364f71fc74f8dd0
+4	708	1710212296256685829	CMakeFiles/NewTCC.dir/main.cpp.o	6c8b1ff11405b446
+5	905	1710224652608786784	CMakeFiles/NewTCC.dir/mainwindow.cpp.o	e0a02627343454de
+0	4	0	/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/NewTCC_autogen/include/ui_mainwindow.h	6364f71fc74f8dd0
+1	4	0	CMakeFiles/NewTCC_autogen	6364f71fc74f8dd0
+1	4	0	NewTCC_autogen/mocs_compilation.cpp	6364f71fc74f8dd0
+1	4	0	NewTCC_autogen/include/ui_mainwindow.h	6364f71fc74f8dd0
+1	4	0	/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/CMakeFiles/NewTCC_autogen	6364f71fc74f8dd0
+1	4	0	/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/NewTCC_autogen/mocs_compilation.cpp	6364f71fc74f8dd0
+1	4	0	/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/NewTCC_autogen/include/ui_mainwindow.h	6364f71fc74f8dd0
+4	686	1710224685516883144	CMakeFiles/NewTCC.dir/main.cpp.o	6c8b1ff11405b446
+686	863	1710224685688883586	NewTCC	822c3e135ab011c8
+0	3	0	CMakeFiles/NewTCC_autogen	6364f71fc74f8dd0
+0	3	0	NewTCC_autogen/mocs_compilation.cpp	6364f71fc74f8dd0
+0	3	0	NewTCC_autogen/include/ui_mainwindow.h	6364f71fc74f8dd0
+0	3	0	/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/CMakeFiles/NewTCC_autogen	6364f71fc74f8dd0
+0	3	0	/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/NewTCC_autogen/mocs_compilation.cpp	6364f71fc74f8dd0
+0	3	0	/home/soren/build-NewTCC-Desktop_Qt_5_11_1_GCC_64bit-Debug/NewTCC_autogen/include/ui_mainwindow.h	6364f71fc74f8dd0
